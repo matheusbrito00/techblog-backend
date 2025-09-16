@@ -21,8 +21,8 @@ A aplicação foi construída com foco em simplicidade, escalabilidade e boas pr
 
 1. Clone este repositório:
    ```bash
-   git clone tech-blog-backend
-   cd tech-blog-backend
+   git clone techblog-backend
+   cd techblog-backend
    ```
 
 2. Instale as dependências:
