@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "mail": "fred_marques@email.com",
+        "name": "Fred Marques",
+        "password": "123456",
+        "isAdmin": false
+    },
+    {
+        "id": 2,
+        "mail": "carlos_henrique@email.com",
+        "name": "Carlos Henrique",
+        "password": "123456",
+        "isAdmin": false
+    },
+    {
+        "id": 3,
+        "mail": "carlos_eduardo@email.com",
+        "name": "Carlos Eduardo",
+        "password": "123456",
+        "isAdmin": false
+    },
+    {
+        "id": 4,
+        "mail": "geovana_rocha@email.com",
+        "name": "Geovana Rocha",
+        "password": "123456",
+        "isAdmin": false
+    }
+]
