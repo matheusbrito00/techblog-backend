@@ -1,6 +1,6 @@
-# 📌 Projeto API REST com FastAPI - TechBlog
+# 📌 Projeto API REST com FastAPI - DevBlog
 
-Este projeto é uma API REST para o TechBlog desenvolvida em **Python 3** utilizando o framework **FastAPI**.  
+Este projeto é uma API REST para o DevBlog desenvolvida em **Python 3** utilizando o framework **FastAPI**.  
 A aplicação foi construída com foco em simplicidade, escalabilidade e boas práticas de desenvolvimento.
 
 ---
